@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Download Resume (PDF)](/files/resume.pdf)
 {% include base_path %}
 
 Education
